@@ -11,7 +11,7 @@ os<br/>
 paramiko
 
 <b>Instruções para rodar o programa</b></br>
-Para rodar o programa basta ter o python3 instalado no Linux (Ubuntu), além das bibliotecas mencionadas acima, entrar no diretório e digitar <b>'python3 interface.py'</b>. A partir daí o programa começará a funcionar e para ter acesso ao manual dos comandos só precisa digitar 'manual' e apertar 'ENTER'. A partir daí, é só executar os comandos pré-definidos de forma correta (como está no manual) e as instruções vão gerar comportamentos nas VMs (node1 e node2), de forma compartilhada. Lembrando que o nome da pasta em que haverá esse compartilhamento é 'compartilhada/'.</br>
+Para rodar o programa basta ter o python3 instalado no Linux (Ubuntu), além das bibliotecas mencionadas acima, entrar no diretório e digitar <b>'python3 interface.py'</b>. A partir daí o programa começará a funcionar e para ter acesso ao manual dos comandos só precisa digitar 'manual' e apertar 'ENTER'. A partir daí, é só executar os comandos pré-definidos de forma correta (como está no manual) e as instruções vão gerar comportamentos nas VMs (node1 e node2), de forma compartilhada. <b>Lembrando que o nome da pasta em que haverá esse compartilhamento é 'compartilhada/'</b>.</br>
 
 <b>Manual dos comandos</b></br>
 1- listar: Lista os arquivos e diretórios presentes naquele diretório.</br>
