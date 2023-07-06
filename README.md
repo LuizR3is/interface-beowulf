@@ -16,12 +16,12 @@ Para rodar o programa basta ter o python3 instalado no Linux (Ubuntu), além das
 <b>Manual dos comandos</b></br>
 1- listar: Lista os arquivos e diretórios presentes naquele diretório.</br>
 Formato esperado: listar [endereço do diretório]</br>
-Caso o argumento seja vazio, listará a pasta ~compartilhada~, que está na home.</br>
+Caso o argumento seja vazio, listará a pasta /compartilhada, que está na home.</br>
 Exemplo: listar compartilhada/pasta</br>
 </br>
 2- listar_t: Lista os arquivos e diretórios ordenando pelos modificados recentemente primeiro.</br>
 Formato esperado: listar_t [endereço do diretório]</br>
-Caso o argumento seja vazio, listará a pasta ~compartilhada~, que está na home.</br>
+Caso o argumento seja vazio, listará a pasta /compartilhada, que está na home.</br>
 Exemplo: listar_t compartilhada/pasta</br>
 </br>
 3- copiar: Faz uma cópia do arquivo ou pasta selecionado.</br>
